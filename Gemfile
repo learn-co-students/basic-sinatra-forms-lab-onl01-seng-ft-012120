@@ -10,6 +10,8 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'require_all'
+gem 'cliver'
+gem 'websocket-extensions'
 
 group :test do
   gem 'rspec'
